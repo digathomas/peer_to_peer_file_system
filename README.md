@@ -6,8 +6,8 @@ COEN 366 project. Find the project description in Documentation/coen366_projectd
 
 ## Contributors
 Rami Ajam  
-  
-  
+40049357  
+ajam.rami99@gmail.com
 
 Jacob Alfaro Enriquez  
 40095550  
