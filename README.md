@@ -15,4 +15,8 @@ jscobrodolfo1999@gmail.com
 
 Thomas Tran  
 40095654  
-thomas.am.tran@gmail.com  
+thomas.am.tran@gmail.com 
+
+Andre Saad
+40076579
+andr.saad27@gmail.com
