@@ -1,0 +1,4 @@
+"Client_Name","IP_Address","UDP_Socket","TCP_Socket","List of Files"
+"jacob","192.168.1.105","20000","8080","jacobestsexy.txt","jeveuxdormir.txt"
+"thomas","192.168.1.105","20001","8000","t.txt","","s.txt"
+"rami","192.168.1.105","20001","8080"
